@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dashboard -- webpack-dev-server",
     "dev": "webpack-dev-server --mode=development --colors",
-    "build": "webpack --mode=production",
+    "build": "webpack",
     "serve": "http-server dist -c0 -p 8000"
   },
   "keywords": [],
@@ -23,11 +23,9 @@
     "open-browser-webpack-plugin": "0.0.2",
     "rimraf": "2.5.4",
     "style-loader": "0.13.1",
-    "webpack": "1.13.2",
+    "webpack": "^1.13.2",
     "webpack-dashboard": "0.2.0",
     "webpack-dev-server": "1.16.2",
     "workbox-webpack-plugin": "^4.3.1"
   }
 }
-
-

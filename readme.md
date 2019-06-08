@@ -17,6 +17,8 @@ html {
 
 ## The course misses out a few key things whiole following along:
 
+`https://app.pluralsight.com/player?course=building-performant-progressive-web-apps-scratch&author=jad-joubran&name=fc68b6d5-7608-46a1-b132-2947f3e67328&clip=5&mode=live`
+
 * in the sw.js demo, the index.js needs refereencing in index.html to get what the demo shows (then removed later for the webpack version)
 * it doesn't cover initialising webpack configs, so this is needed in the root of the app:
 ```sh

@@ -46,8 +46,9 @@ There's a bunch of webpack stuff that's pre-installed and not coverred in tyhe c
 * [outdated] https://app.pluralsight.com/library/courses/webpack-fundamentals/exercise-files
     * https://github.com/joeeames/WebpackFundamentalsCourse
 * https://app.pluralsight.com/player?course=transpiling-bundling-javascript-webpack&author=wes-mcclure&name=fd890a11-b47f-4aa4-9824-5764b851aebe&clip=1&mode=live
+    * https://github.com/g0t4/optimizing-web-apps-webpack
 
-### Vuew.js
+### Vue.js
 * https://vuejs.org/v2/guide/installation.html
 
 
